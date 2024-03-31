@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Onisim\\Desktop\\Faultate\\GUI-PJP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F44EF-FD6A-0CDD-D167-2A7AF49E65C1}|Assembly-CSharp.csproj|c:\\users\\onisim\\desktop\\faultate\\gui-pjp\\assets\\polygon city pack\\characters\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F44EF-FD6A-0CDD-D167-2A7AF49E65C1}|Assembly-CSharp.csproj|solutionrelative:assets\\polygon city pack\\characters\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Walking.cs",
+              "DocumentMoniker": "C:\\Users\\Onisim\\Desktop\\Faultate\\GUI-PJP\\Assets\\POLYGON city pack\\Characters\\Walking.cs",
+              "RelativeDocumentMoniker": "Assets\\POLYGON city pack\\Characters\\Walking.cs",
+              "ToolTip": "C:\\Users\\Onisim\\Desktop\\Faultate\\GUI-PJP\\Assets\\POLYGON city pack\\Characters\\Walking.cs",
+              "RelativeToolTip": "Assets\\POLYGON city pack\\Characters\\Walking.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:51:56.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
